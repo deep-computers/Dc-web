@@ -4,7 +4,6 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }: { mode: string }) => ({
-  base: '/Dc-web/', // Repository name for GitHub Pages
   server: {
     host: "::",
     port: 8080,

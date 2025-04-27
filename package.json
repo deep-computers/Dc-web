@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://deep-computers.github.io/deep-print-academic-hub-main",
+  "homepage": "https://github.com/therajes/Dc-web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

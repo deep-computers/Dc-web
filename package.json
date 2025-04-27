@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages -f"
+    "deploy": "gh-pages -d dist -b gh-pages -f -r https://github.com/therajes/Dc-web.git"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",

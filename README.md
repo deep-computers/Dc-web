@@ -12,10 +12,10 @@ Follow these steps to set up the project on your local machine:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/therajes/Dc-web.git
 
 # Step 2: Navigate to the project directory
-cd deep-print-academic-hub
+cd Dc-web
 
 # Step 3: Install the necessary dependencies
 npm i
